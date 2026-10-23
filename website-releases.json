@@ -1,20 +1,46 @@
 {
   "schemaVersion": 1,
   "latest": {
-    "versionCode": 327,
-    "versionName": "0.2.327",
-    "title": "Clearer update downloads",
-    "publishedAt": "2026-10-20T23:15:53Z",
-    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.327",
-    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.327/jac-air-tracker-0.2.327.apk",
+    "versionCode": 328,
+    "versionName": "0.2.328",
+    "title": "A smoother AirTracker",
+    "publishedAt": "2026-10-23T08:38:58Z",
+    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.328",
+    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.328/jac-air-tracker-0.2.328.apk",
     "updates": [
       {
-        "title": "Software Update",
-        "body": "Clearer download progress, with downloads continuing when you leave the page."
+        "title": "Home",
+        "body": "New glass droplet controls, a gentle fullscreen ripple and a clearer camera refresh pill. New animations when opening web links."
+      },
+      {
+        "title": "Briefing",
+        "body": "A new magic refresh effect with a colourful glow."
+      },
+      {
+        "title": "Flights",
+        "body": "More compact flight cards, matching loading placeholders and a redesigned Landed footer."
+      },
+      {
+        "title": "Play",
+        "body": "Smooth two-finger expansion to fill the screen and improved fullscreen glass controls. Choose when the long control bar hides: 2, 4 or 6 seconds—or Never hide."
       }
     ]
   },
   "previous": [
+    {
+      "versionCode": 327,
+      "versionName": "0.2.327",
+      "title": "Clearer update downloads",
+      "publishedAt": "2026-10-20T23:15:53Z",
+      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.327",
+      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.327/jac-air-tracker-0.2.327.apk",
+      "updates": [
+        {
+          "title": "Software Update",
+          "body": "Clearer download progress, with downloads continuing when you leave the page."
+        }
+      ]
+    },
     {
       "versionCode": 326,
       "versionName": "0.2.326",
@@ -68,48 +94,6 @@
         {
           "title": "Video library",
           "body": "Smoother video-library scrolling."
-        }
-      ]
-    },
-    {
-      "versionCode": 324,
-      "versionName": "0.2.324",
-      "title": "A better Play, fresher Briefing and easier updates",
-      "publishedAt": "2026-10-18T07:55:53Z",
-      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.324",
-      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.324/jac-air-tracker-0.2.324.apk",
-      "updates": [
-        {
-          "title": "Play controls",
-          "body": "A roomier player and compact controls leave more space for your video library. Choose preferred quality, color and subtitles from the library bar."
-        },
-        {
-          "title": "Playback fixes",
-          "body": "The time label now follows the seek handle. Menus line up with the control bar, with smaller quality and color menus and better placement in landscape."
-        },
-        {
-          "title": "Live webcams",
-          "body": "Tap LIVE to open the timeline on supported streams, move back and return to live. Clearer playback messages offer a retry when a video is interrupted."
-        },
-        {
-          "title": "Jackson Hole Stories",
-          "body": "Discover five short films about Town Square, the antler arches, the Crabtree Hotel and more of Jackson Hole's history."
-        },
-        {
-          "title": "Briefing",
-          "body": "A refreshed layout brings weather, flight updates and helpful summaries together. Tap a flight update to find matching flights."
-        },
-        {
-          "title": "Briefing updates",
-          "body": "See when information was updated, refresh it easily and get clearer loading and offline messages. Old flight information is kept out of today's summary."
-        },
-        {
-          "title": "App Icons",
-          "body": "Browse 29 icons in Standard, Glass, Winter and JH collections with larger previews. Quick selections keep your last choice, and Settings shows your current icon."
-        },
-        {
-          "title": "Background update downloads",
-          "body": "Update downloads continue when you leave the app. Return to Software Update to see progress or install when ready, with a Retry option if a download fails."
         }
       ]
     }
