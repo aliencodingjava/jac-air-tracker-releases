@@ -1,32 +1,58 @@
 {
   "schemaVersion": 1,
   "latest": {
-    "versionCode": 328,
-    "versionName": "0.2.328",
-    "title": "A smoother AirTracker",
-    "publishedAt": "2026-10-23T08:38:58Z",
-    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.328",
-    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.328/jac-air-tracker-0.2.328.apk",
+    "versionCode": 329,
+    "versionName": "0.2.329",
+    "title": "A clearer flight view",
+    "publishedAt": "2026-10-24T13:40:36Z",
+    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.329",
+    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.329/jac-air-tracker-0.2.329.apk",
     "updates": [
       {
-        "title": "Home",
-        "body": "New glass droplet controls, a gentle fullscreen ripple and a clearer camera refresh pill. New animations when opening web links."
-      },
-      {
-        "title": "Briefing",
-        "body": "A new magic refresh effect with a colourful glow."
-      },
-      {
         "title": "Flights",
-        "body": "More compact flight cards, matching loading placeholders and a redesigned Landed footer."
+        "body": "Redesigned compact cards with smaller city photos, clearer flight details and live progress. The same fresh design is now available in Live JAC Watch. Star a flight to keep it at the top."
       },
       {
-        "title": "Play",
-        "body": "Smooth two-finger expansion to fill the screen and improved fullscreen glass controls. Choose when the long control bar hides: 2, 4 or 6 seconds—or Never hide."
+        "title": "Search & filters",
+        "body": "Matching glass controls that smoothly expand and collapse, with a gentle elastic feel."
+      },
+      {
+        "title": "Arrival alerts",
+        "body": "New liquid-glass notifications when a flight lands. Pull down for more details, swipe up to dismiss or tap to open Arrivals."
+      },
+      {
+        "title": "Appearance",
+        "body": "A fresh, cleaner design that makes flight information easier to read at a glance."
       }
     ]
   },
   "previous": [
+    {
+      "versionCode": 328,
+      "versionName": "0.2.328",
+      "title": "A smoother AirTracker",
+      "publishedAt": "2026-10-23T08:38:58Z",
+      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.328",
+      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.328/jac-air-tracker-0.2.328.apk",
+      "updates": [
+        {
+          "title": "Home",
+          "body": "New glass droplet controls, a gentle fullscreen ripple and a clearer camera refresh pill. New animations when opening web links."
+        },
+        {
+          "title": "Briefing",
+          "body": "A new magic refresh effect with a colourful glow."
+        },
+        {
+          "title": "Flights",
+          "body": "More compact flight cards, matching loading placeholders and a redesigned Landed footer."
+        },
+        {
+          "title": "Play",
+          "body": "Smooth two-finger expansion to fill the screen and improved fullscreen glass controls. Choose when the long control bar hides: 2, 4 or 6 seconds—or Never hide."
+        }
+      ]
+    },
     {
       "versionCode": 327,
       "versionName": "0.2.327",
@@ -68,32 +94,6 @@
         {
           "title": "Liquid Glass",
           "body": "Fixed the text at the bottom."
-        }
-      ]
-    },
-    {
-      "versionCode": 325,
-      "versionName": "0.2.325",
-      "title": "More ways to watch",
-      "publishedAt": "2026-10-20T08:21:36Z",
-      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.325",
-      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.325/jac-air-tracker-0.2.325.apk",
-      "updates": [
-        {
-          "title": "Picture-in-picture",
-          "body": "Added picture-in-picture playback."
-        },
-        {
-          "title": "Two players",
-          "body": "Choose between Android and Native players."
-        },
-        {
-          "title": "Glass controls",
-          "body": "New glass video controls."
-        },
-        {
-          "title": "Video library",
-          "body": "Smoother video-library scrolling."
         }
       ]
     }
