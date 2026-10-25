@@ -1,32 +1,58 @@
 {
   "schemaVersion": 1,
   "latest": {
-    "versionCode": 329,
-    "versionName": "0.2.329",
-    "title": "A clearer flight view",
-    "publishedAt": "2026-10-24T13:40:36Z",
-    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.329",
-    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.329/jac-air-tracker-0.2.329.apk",
+    "versionCode": 330,
+    "versionName": "0.2.330",
+    "title": "Flight details and arrival alerts",
+    "publishedAt": "2026-10-25T17:43:14Z",
+    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.330",
+    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.330/jac-air-tracker-0.2.330.apk",
     "updates": [
       {
         "title": "Flights",
-        "body": "Redesigned compact cards with smaller city photos, clearer flight details and live progress. The same fresh design is now available in Live JAC Watch. Star a flight to keep it at the top."
+        "body": "Starred flights now move smoothly into Following. Expanded details are more compact, with departure and arrival information."
       },
       {
-        "title": "Search & filters",
-        "body": "Matching glass controls that smoothly expand and collapse, with a gentle elastic feel."
+        "title": "Landed flights",
+        "body": "A brighter green Landed footer in light and dark mode. Newly landed flights stay in place for six seconds before moving to Arrived or hiding, depending on your settings."
       },
       {
         "title": "Arrival alerts",
-        "body": "New liquid-glass notifications when a flight lands. Pull down for more details, swipe up to dismiss or tap to open Arrivals."
+        "body": "Glass alerts stay visible until you swipe up, open Arrivals or receive the next landing alert. Your selected arrival sound now plays inside the app, and the flight card updates when the alert arrives."
       },
       {
         "title": "Appearance",
-        "body": "A fresh, cleaner design that makes flight information easier to read at a glance."
+        "body": "Cleanly rounded airline logos, better spacing for elapsed and remaining times, and a fully visible WebSearch button."
       }
     ]
   },
   "previous": [
+    {
+      "versionCode": 329,
+      "versionName": "0.2.329",
+      "title": "A clearer flight view",
+      "publishedAt": "2026-10-24T13:40:36Z",
+      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.329",
+      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.329/jac-air-tracker-0.2.329.apk",
+      "updates": [
+        {
+          "title": "Flights",
+          "body": "Redesigned compact cards with smaller city photos, clearer flight details and live progress. The same fresh design is now available in Live JAC Watch. Star a flight to keep it at the top."
+        },
+        {
+          "title": "Search & filters",
+          "body": "Matching glass controls that smoothly expand and collapse, with a gentle elastic feel."
+        },
+        {
+          "title": "Arrival alerts",
+          "body": "New liquid-glass notifications when a flight lands. Pull down for more details, swipe up to dismiss or tap to open Arrivals."
+        },
+        {
+          "title": "Appearance",
+          "body": "A fresh, cleaner design that makes flight information easier to read at a glance."
+        }
+      ]
+    },
     {
       "versionCode": 328,
       "versionName": "0.2.328",
@@ -64,36 +90,6 @@
         {
           "title": "Software Update",
           "body": "Clearer download progress, with downloads continuing when you leave the page."
-        }
-      ]
-    },
-    {
-      "versionCode": 326,
-      "versionName": "0.2.326",
-      "title": "A smoother Flights Studio",
-      "publishedAt": "2026-10-20T22:11:53Z",
-      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.326",
-      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.326/jac-air-tracker-0.2.326.apk",
-      "updates": [
-        {
-          "title": "Home",
-          "body": "Smoother entry, refreshed camera controls and stable bottom tabs."
-        },
-        {
-          "title": "Briefing",
-          "body": "See cancellations, diversions, long delays and today’s reminders."
-        },
-        {
-          "title": "Play",
-          "body": "Clearer glass controls, next/previous for live cameras and slimmer bars. Fixed the clipped PiP button in landscape."
-        },
-        {
-          "title": "Settings / App Themes",
-          "body": "Larger, improved theme previews."
-        },
-        {
-          "title": "Liquid Glass",
-          "body": "Fixed the text at the bottom."
         }
       ]
     }
