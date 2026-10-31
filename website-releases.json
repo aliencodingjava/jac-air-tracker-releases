@@ -1,36 +1,70 @@
 {
   "schemaVersion": 1,
   "latest": {
-    "versionCode": 332,
-    "versionName": "0.2.332",
-    "title": "A clearer view of your flights",
-    "publishedAt": "2026-10-27T22:01:42Z",
-    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.332",
-    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.332/jac-air-tracker-0.2.332.apk",
+    "versionCode": 333,
+    "versionName": "0.2.333",
+    "title": "A smoother AirTracker, with more to explore",
+    "publishedAt": "2026-10-31T07:23:05Z",
+    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.333",
+    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.333/jac-air-tracker-0.2.333.apk",
     "updates": [
       {
+        "title": "Improvements",
+        "body": "Smoother scrolling, cleaner transitions, refined glass controls and more consistent colours across the app."
+      },
+      {
         "title": "Flights",
-        "body": "Clearer gate details and a simpler header without the background photo make flight information easier to read."
+        "body": "A new liquid pull-to-refresh effect, steadier loading and smoother card updates. Hide several landed flights and bring them all back with one Undo."
       },
       {
-        "title": "Search & filters",
-        "body": "One floating glass control brings search and filters together. Cleaner page titles make more room for your flights."
+        "title": "Live cameras",
+        "body": "A compact camera grid, smoother photo refreshes and improved fullscreen controls. Add and group your own camera links with our experimental personal cameras feature."
       },
       {
-        "title": "Landed flights",
-        "body": "Swipe left to reveal Hide, with a soft click and light vibration. Hidden flights appear in the existing Hide arrived count. Changed your mind? Tap Undo in the glass bar above the bottom navigation."
+        "title": "Camera archive",
+        "body": "Browse saved photos from the past 28 hours, search by time and easily see photo counts and storage used."
       },
       {
-        "title": "Refresh glow",
-        "body": "A brighter, colourful glow moves softly around flight cards as they refresh."
+        "title": "Uber at JAC",
+        "body": "Plan airport pickups with upcoming arrivals and camera views. Quickly open Uber for a ride or Uber Driver if you’re driving."
       },
       {
-        "title": "Welcome",
-        "body": "New graphite, bronze and navy wallpapers, with a cleaner look and no pagination dots."
+        "title": "Recovery & updates",
+        "body": "A simpler recovery screen with access to previous app versions when you need them."
       }
     ]
   },
   "previous": [
+    {
+      "versionCode": 332,
+      "versionName": "0.2.332",
+      "title": "A clearer view of your flights",
+      "publishedAt": "2026-10-27T22:01:42Z",
+      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.332",
+      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.332/jac-air-tracker-0.2.332.apk",
+      "updates": [
+        {
+          "title": "Flights",
+          "body": "Clearer gate details and a simpler header without the background photo make flight information easier to read."
+        },
+        {
+          "title": "Search & filters",
+          "body": "One floating glass control brings search and filters together. Cleaner page titles make more room for your flights."
+        },
+        {
+          "title": "Landed flights",
+          "body": "Swipe left to reveal Hide, with a soft click and light vibration. Hidden flights appear in the existing Hide arrived count. Changed your mind? Tap Undo in the glass bar above the bottom navigation."
+        },
+        {
+          "title": "Refresh glow",
+          "body": "A brighter, colourful glow moves softly around flight cards as they refresh."
+        },
+        {
+          "title": "Welcome",
+          "body": "New graphite, bronze and navy wallpapers, with a cleaner look and no pagination dots."
+        }
+      ]
+    },
     {
       "versionCode": 331,
       "versionName": "0.2.331",
@@ -88,32 +122,6 @@
         {
           "title": "Appearance",
           "body": "Cleanly rounded airline logos, better spacing for elapsed and remaining times, and a fully visible WebSearch button."
-        }
-      ]
-    },
-    {
-      "versionCode": 329,
-      "versionName": "0.2.329",
-      "title": "A clearer flight view",
-      "publishedAt": "2026-10-24T13:40:36Z",
-      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.329",
-      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.329/jac-air-tracker-0.2.329.apk",
-      "updates": [
-        {
-          "title": "Flights",
-          "body": "Redesigned compact cards with smaller city photos, clearer flight details and live progress. The same fresh design is now available in Live JAC Watch. Star a flight to keep it at the top."
-        },
-        {
-          "title": "Search & filters",
-          "body": "Matching glass controls that smoothly expand and collapse, with a gentle elastic feel."
-        },
-        {
-          "title": "Arrival alerts",
-          "body": "New liquid-glass notifications when a flight lands. Pull down for more details, swipe up to dismiss or tap to open Arrivals."
-        },
-        {
-          "title": "Appearance",
-          "body": "A fresh, cleaner design that makes flight information easier to read at a glance."
         }
       ]
     }
