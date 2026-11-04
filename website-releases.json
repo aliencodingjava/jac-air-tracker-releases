@@ -1,36 +1,58 @@
 {
   "schemaVersion": 1,
   "latest": {
-    "versionCode": 334,
-    "versionName": "0.2.334",
-    "title": "What’s New in AirTracker 0.2.334",
-    "publishedAt": "2026-11-01T09:19:44Z",
-    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.334",
-    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.334/jac-air-tracker-0.2.334.apk",
+    "versionCode": 335,
+    "versionName": "0.2.335",
+    "title": "What’s New in AirTracker 0.2.335",
+    "publishedAt": "2026-11-04T11:47:20Z",
+    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.335",
+    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.335/jac-air-tracker-0.2.335.apk",
     "updates": [
       {
-        "title": "Personal cameras",
-        "body": "Add a compatible camera with setup options for 22 brands, or connect a Reolink camera using your own UID and password. When adding another camera, search for an existing group or create a new one."
-      },
-      {
-        "title": "Live view & recordings",
-        "body": "Take a snapshot or record a clip while watching live. Captures stay in AirTracker until you choose to download a copy. Open Saved captures to swipe through photos and videos in fullscreen."
-      },
-      {
-        "title": "Smoother camera refreshes",
-        "body": "The current photo stays visible until the next one is ready, then fades smoothly into the new image. You’ll see this in Live Cameras and fullscreen previews. New Archive photos also fade into place."
-      },
-      {
         "title": "Liquid Glass",
-        "body": "A smaller preview and slimmer sliders make settings easier to use on smaller phones. What’s New stays within reach. In Briefing and Camera Archive, glass controls join more smoothly, and only the control you touch lights up."
+        "body": "A redesigned floating panel with Adaptive, Effects and Colour tabs. Choose a tint colour, fine-tune your glass and reset to defaults. Light and dark modes remember their own appearance."
       },
       {
-        "title": "Classic theme",
-        "body": "Classic now uses a black background in dark mode and white in light mode, with clearer text and controls."
+        "title": "Notes & Folders",
+        "body": "Folders now open in List view by default, with an improved layout."
+      },
+      {
+        "title": "Appearance",
+        "body": "New Home, Briefing and Menu icons, plus updated Liquid Glass colours."
       }
     ]
   },
   "previous": [
+    {
+      "versionCode": 334,
+      "versionName": "0.2.334",
+      "title": "What’s New in AirTracker 0.2.334",
+      "publishedAt": "2026-11-01T09:19:44Z",
+      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.334",
+      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.334/jac-air-tracker-0.2.334.apk",
+      "updates": [
+        {
+          "title": "Personal cameras",
+          "body": "Add a compatible camera with setup options for 22 brands, or connect a Reolink camera using your own UID and password. When adding another camera, search for an existing group or create a new one."
+        },
+        {
+          "title": "Live view & recordings",
+          "body": "Take a snapshot or record a clip while watching live. Captures stay in AirTracker until you choose to download a copy. Open Saved captures to swipe through photos and videos in fullscreen."
+        },
+        {
+          "title": "Smoother camera refreshes",
+          "body": "The current photo stays visible until the next one is ready, then fades smoothly into the new image. You’ll see this in Live Cameras and fullscreen previews. New Archive photos also fade into place."
+        },
+        {
+          "title": "Liquid Glass",
+          "body": "A smaller preview and slimmer sliders make settings easier to use on smaller phones. What’s New stays within reach. In Briefing and Camera Archive, glass controls join more smoothly, and only the control you touch lights up."
+        },
+        {
+          "title": "Classic theme",
+          "body": "Classic now uses a black background in dark mode and white in light mode, with clearer text and controls."
+        }
+      ]
+    },
     {
       "versionCode": 333,
       "versionName": "0.2.333",
@@ -92,40 +114,6 @@
         {
           "title": "Welcome",
           "body": "New graphite, bronze and navy wallpapers, with a cleaner look and no pagination dots."
-        }
-      ]
-    },
-    {
-      "versionCode": 331,
-      "versionName": "0.2.331",
-      "title": "A new home for your data",
-      "publishedAt": "2026-10-26T12:20:36Z",
-      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.331",
-      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.331/jac-air-tracker-0.2.331.apk",
-      "updates": [
-        {
-          "title": "A new home for your data",
-          "body": "We’re excited to share that we’ve moved to a new database for your account, notes and files. Update the app to stay connected. If anything seems missing or isn’t working, please let us know through Feedback."
-        },
-        {
-          "title": "Notes",
-          "body": "Keep photos, recordings and videos with your notes. Deleting a note also removes its attachments."
-        },
-        {
-          "title": "Profile",
-          "body": "See your name, birthday, bio and email together, with editing and security options in the menu."
-        },
-        {
-          "title": "Password recovery",
-          "body": "Clearer steps, a Copy password option and an easy return to the app."
-        },
-        {
-          "title": "Flights",
-          "body": "Updates continue until 1:30 AM Jackson time, with more complete details for United flights operated by SkyWest."
-        },
-        {
-          "title": "Settings",
-          "body": "Keep Arrivals and Departures on screen with one Always On setting. Press and hold supported settings for helpful animated previews."
         }
       ]
     }
