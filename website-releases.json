@@ -1,28 +1,62 @@
 {
   "schemaVersion": 1,
   "latest": {
-    "versionCode": 335,
-    "versionName": "0.2.335",
-    "title": "What’s New in AirTracker 0.2.335",
-    "publishedAt": "2026-11-04T11:47:20Z",
-    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.335",
-    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.335/jac-air-tracker-0.2.335.apk",
+    "versionCode": 336,
+    "versionName": "0.2.336",
+    "title": "What’s New in AirTracker 0.2.336",
+    "publishedAt": "2026-11-17T03:09:09Z",
+    "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.336",
+    "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.336/jac-air-tracker-0.2.336.apk",
     "updates": [
       {
-        "title": "Liquid Glass",
-        "body": "A redesigned floating panel with Adaptive, Effects and Colour tabs. Choose a tint colour, fine-tune your glass and reset to defaults. Light and dark modes remember their own appearance."
+        "title": "Camera Photo Times",
+        "body": "See the time printed on the Main, North, and South camera photos in the Home refresh pill."
       },
       {
-        "title": "Notes & Folders",
-        "body": "Folders now open in List view by default, with an improved layout."
+        "title": "App Icons",
+        "body": "Browse 69 new styles grouped by color and design, with a preview of the icons right in Settings."
       },
       {
-        "title": "Appearance",
-        "body": "New Home, Briefing and Menu icons, plus updated Liquid Glass colours."
+        "title": "App Themes",
+        "body": "Preview themes in light and dark, then apply your choice across Home, Settings, and Flights."
+      },
+      {
+        "title": "Bottom Tabs",
+        "body": "The glass pill glides toward your finger on Home and Flights. Lift to open the tab underneath."
+      },
+      {
+        "title": "Briefing",
+        "body": "Open Flights and refresh sit closer together with a smoother glass edge."
+      },
+      {
+        "title": "Flights",
+        "body": "See flights left today, jump to arrivals, and filter cancelled or diverted flights."
       }
     ]
   },
   "previous": [
+    {
+      "versionCode": 335,
+      "versionName": "0.2.335",
+      "title": "What’s New in AirTracker 0.2.335",
+      "publishedAt": "2026-11-04T11:47:20Z",
+      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.335",
+      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.335/jac-air-tracker-0.2.335.apk",
+      "updates": [
+        {
+          "title": "Liquid Glass",
+          "body": "A redesigned floating panel with Adaptive, Effects and Colour tabs. Choose a tint colour, fine-tune your glass and reset to defaults. Light and dark modes remember their own appearance."
+        },
+        {
+          "title": "Notes & Folders",
+          "body": "Folders now open in List view by default, with an improved layout."
+        },
+        {
+          "title": "Appearance",
+          "body": "New Home, Briefing and Menu icons, plus updated Liquid Glass colours."
+        }
+      ]
+    },
     {
       "versionCode": 334,
       "versionName": "0.2.334",
@@ -84,36 +118,6 @@
         {
           "title": "Recovery & updates",
           "body": "A simpler recovery screen with access to previous app versions when you need them."
-        }
-      ]
-    },
-    {
-      "versionCode": 332,
-      "versionName": "0.2.332",
-      "title": "A clearer view of your flights",
-      "publishedAt": "2026-10-27T22:01:42Z",
-      "releaseUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/tag/v0.2.332",
-      "apkUrl": "https://github.com/aliencodingjava/jac-air-tracker-releases/releases/download/v0.2.332/jac-air-tracker-0.2.332.apk",
-      "updates": [
-        {
-          "title": "Flights",
-          "body": "Clearer gate details and a simpler header without the background photo make flight information easier to read."
-        },
-        {
-          "title": "Search & filters",
-          "body": "One floating glass control brings search and filters together. Cleaner page titles make more room for your flights."
-        },
-        {
-          "title": "Landed flights",
-          "body": "Swipe left to reveal Hide, with a soft click and light vibration. Hidden flights appear in the existing Hide arrived count. Changed your mind? Tap Undo in the glass bar above the bottom navigation."
-        },
-        {
-          "title": "Refresh glow",
-          "body": "A brighter, colourful glow moves softly around flight cards as they refresh."
-        },
-        {
-          "title": "Welcome",
-          "body": "New graphite, bronze and navy wallpapers, with a cleaner look and no pagination dots."
         }
       ]
     }
